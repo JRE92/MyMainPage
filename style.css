@@ -1,0 +1,15 @@
+body{
+    background-color: #393E46;
+}
+.main{
+    display: grid;
+    place-items: center;
+    margin-top: 10%;
+}
+#clock{
+    color: #D6E0F0;
+    text-align: center;
+    font-size: 10em;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 8px 8px #145374;
+}
